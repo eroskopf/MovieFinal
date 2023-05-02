@@ -1,0 +1,572 @@
+,Film,Year of Release,Movie Time,Movie Genre,IMDB Rating,IMDB Votes,Film ID
+0,Wings,1927,144,"Drama,Romance,War",7.5,"12,221",2becf7d5-a3de-46ab-ae45-abdd6b588067
+1,7th Heaven,1927,110,"Drama,Romance",7.7,"3,439",19ed3295-a878-4fd2-8e60-5cd7b5f93dad
+2,The Racket,1928,84,"Crime,Drama,Film-Noir",6.7,"1,257",3111c2d8-0908-4093-8ff3-99c89f2f2f08
+3,The Broadway Melody,1929,100,"Drama,Musical,Romance",5.7,"6,890",de063f3f-2d35-4e1c-8636-6eb4c16bd236
+4,Alibi,1929,91,"Action,Crime,Romance",5.8,765,609887c2-877c-43a4-b88c-e40e31096a98
+5,Hollywood Revue,1929,130,"Comedy,Music",5.7,"2,004",689f22d5-a700-4ce1-b9be-65652f32c186
+6,In Old Arizona,1928,95,Western,5.6,"1,019",a0644f19-a136-44c2-ab5d-50978ef19608
+7,The Patriot,1928,113,"Drama,History,Thriller",7.4,18,5d4ef7bd-2f81-47f3-9305-2c8fe140d4e4
+8,All Quiet on the Western Front,1930,152,"Drama,War",8.1,"59,214",281742f9-3b4e-480d-b704-c8c15de6b721
+9,The Big House,1930,87,"Crime,Drama,Thriller",7.1,"2,079",297aa285-29d7-4a22-b833-c5632ab3e562
+10,Disraeli,1929,90,"Biography,Drama,History",6.2,"1,143",831f96b0-ebf5-4e09-b47c-d39817b86092
+11,The Divorcee,1930,84,"Romance,Drama",6.7,"2,982",71614648-8545-4f91-a15e-4991f0eb7f13
+12,The Love Parade,1929,107,"Comedy,Musical,Romance",7.0,"2,163",0dbbedb5-b8f0-4f0a-9ff7-95e75e43eca7
+13,Cimarron,1931,123,"Drama,Western",5.9,"5,851",db2683c0-128e-4b5c-858f-d9f18c2fb9b9
+14,East Lynne,1931,102,"Drama,Romance",5.9,188,ed8c7dfc-97ab-4825-8bbc-74d31292acb4
+15,The Front Page,1931,101,"Comedy,Crime,Drama",6.8,"2,741",c873d149-786b-413f-ba9d-9978040b5436
+16,Skippy,1931,85,"Comedy,Drama,Family",6.3,772,0f7347c9-a0a5-430b-8f28-43d703c9c4c8
+17,Trader Horn,1931,122,"Action,Adventure,Drama",6.3,957,bd308f8f-cb26-43a0-8b5b-f110934927e0
+18,Grand Hotel,1932,112,"Drama,Romance",7.4,"18,314",be69f946-6adc-47e4-8491-79d6c033f59d
+19,Arrowsmith,1931,108,Drama,6.2,"1,663",91572891-4303-45c2-967a-601b9fa8fe70
+20,Bad Girl,1931,90,"Drama,Romance",6.5,"1,248",e97f865a-8711-465a-88da-423b67c08738
+21,The Champ,1931,86,"Drama,Sport",7.3,"3,003",c8994348-093e-4e22-8ffe-6ad3332a2bab
+22,Five Star Final,1931,89,"Crime,Drama",7.3,"1,944",9236968a-9ea9-473b-abe2-28ec8c141a8e
+23,One Hour with You,1932,78,"Comedy,Musical,Romance",7.2,"2,317",2299e2df-e18d-41d7-b5b9-ec0041db956d
+24,Shanghai Express,1932,82,"Adventure,Drama,Romance",7.3,"8,325",a6f9841d-533f-4360-9c6a-dbb3d26c8dd6
+25,The Smiling Lieutenant,1931,93,"Comedy,Romance,Musical",7.2,"3,540",cbe0150a-db25-4d46-9d21-183802460465
+26,Cavalcade,1933,112,"Drama,Romance,War",5.9,"4,961",e71a2212-92c3-4212-9eb2-d468f10c768e
+27,42nd Street,1933,89,"Comedy,Drama,Musical",7.4,"11,342",1ad59370-1ed5-4d3a-a8c4-8571f95da168
+28,A Farewell to Arms,1932,80,"Drama,Romance,War",6.5,"5,567",39ab1f95-f400-4cdc-be82-425015486234
+29,I Am a Fugitive from a Chain Gang,1932,92,"Crime,Drama,Film-Noir",8.2,"12,604",e36dda02-b84a-4337-ad66-cfa30a5df599
+30,Lady for a Day,1933,96,"Comedy,Drama",7.4,"3,971",7dda746d-5569-4711-afa6-9b76b5e7fa4f
+31,Little Women,1933,115,"Drama,Family,Romance",7.2,"6,778",f6fa2e25-588d-414f-a59d-67b9eb033270
+32,The Private Life of Henry VIII,1933,97,"Biography,Comedy,Drama",7.1,"4,090",625a769c-475b-4c27-8c25-01905fe4f583
+33,She Done Him Wrong,1933,66,"Comedy,Drama,History",6.4,"5,899",af3be976-1cee-4383-a6f1-50545a634ab5
+34,Smilin' Through,1932,98,"Drama,Romance",6.9,"1,266",cd94faa5-73a9-49d2-82ab-4fcafbde6dc8
+35,State Fair,1933,99,"Comedy,Drama,Romance",6.8,829,01707372-d948-43ef-91ed-f57945a48ed4
+36,It Happened One Night,1934,105,"Comedy,Romance",8.1,"98,409",88fe2d2b-3e07-4c9f-9978-388b4f7b0c93
+37,The Barretts of Wimpole Street,1934,109,"Biography,Drama,Romance",7.0,"1,795",d66f2e6e-b9a6-4f20-972b-315f3998b5a4
+38,Cleopatra,1934,100,"Biography,Drama,History",6.8,"3,678",30a8cacf-0902-4d8c-9c02-934c09e284a6
+39,Flirtation Walk,1934,97,"Musical,Romance",5.7,700,97e60fc4-5f01-412e-b350-075f1c78939f
+40,The Gay Divorcee,1934,107,"Comedy,Musical,Romance",7.5,"7,455",4cff46f4-7853-40a0-9b52-39643b2d257a
+41,Here Comes the Navy,1934,87,"Comedy,Drama,Romance",6.3,940,becfca3d-e679-46b3-a592-a13fcef61f5a
+42,The House of Rothschild,1934,88,"Biography,Drama,History",6.6,"1,127",a1f33617-6fce-4106-bcd4-4e5b540175e2
+43,Imitation of Life,1934,111,"Drama,Romance",7.5,"4,423",ec7b23f4-2394-4739-adaa-6dbeb10b0b28
+44,One Night of Love,1934,84,"Music,Romance",5.7,577,ff621866-7c96-4eb3-855c-0c10be8340ce
+45,The Thin Man,1934,91,"Comedy,Crime,Mystery",8.0,"27,959",3ae65a34-8ae8-42c5-9404-06faa25b3cb0
+46,Viva Villa!,1934,115,"Action,Biography,Romance",6.4,"1,277",3ca53584-968b-4ef8-9a29-408223864bc9
+47,The White Parade,1934,80,Drama,6.8,86,8d241c99-a9e3-4371-8011-949b36ca7f47
+48,Mutiny on the Bounty,1935,132,"Adventure,Biography,Drama",7.7,"21,805",3cea2927-f5a4-4ffb-9e17-88566f2cd111
+49,Alice Adams,1935,99,"Comedy,Drama,Romance",6.9,"4,020",73d8b0a6-dc25-48c0-aa51-e73990fc02d2
+50,Broadway Melody of 1936,1935,101,"Musical,Romance",6.8,"1,662",11f40e01-e1d5-4f74-ae72-230823543e37
+51,Captain Blood,1935,119,"Action,Adventure,History",7.7,"13,708",106183d2-50d3-4d50-8ead-6ed52a93f7c6
+52,David Copperfield,1935,130,"Adventure,Drama,Romance",7.4,"4,069",303fd7b4-de82-4d82-a79f-857b45dda877
+53,The Informer,1935,91,"Crime,Drama",7.4,"6,169",98c15d3b-d3c6-4af3-b717-12d446154f5d
+54,The Lives of a Bengal Lancer,1935,109,"Adventure,Drama,War",7.1,"2,813",f6953c25-25ea-41d3-807c-ef4fdfed54cd
+55,A Midsummer Night's Dream,1935,133,"Comedy,Fantasy,Romance",6.9,"3,339",dee5c6d4-6438-4110-b72a-a49322b52070
+56,Les Misérables,1935,108,"Drama,History,Romance",7.7,"3,468",521b9bf2-426b-49a1-aeb3-d228db8a970c
+57,Naughty Marietta,1935,105,"Drama,Musical,Romance",6.7,"1,307",adde70ec-0094-4ce0-91ff-6b9ab12387fd
+58,Ruggles of Red Gap,1935,90,"Comedy,Romance,Western",7.6,"3,874",f4c74985-f2ec-45db-b8aa-444087ad34d4
+59,Top Hat,1935,101,"Comedy,Musical,Romance",7.8,"18,339",c7ea701f-f0be-4108-b734-14412b70d3b2
+60,The Great Ziegfeld,1936,176,"Biography,Drama,Musical",6.7,"7,665",321ede7b-fac6-4259-b070-b403b3404042
+61,Anthony Adverse,1936,141,"Adventure,Drama,Romance",6.4,"1,706",339e98eb-684b-4a4e-a67c-9a3ffb5f0de9
+62,Dodsworth,1936,101,"Drama,Romance",7.8,"8,668",693ad8e8-f9cf-4c4d-b332-18026348de67
+63,Libeled Lady,1936,98,"Comedy,Romance",7.9,"7,509",c41fc4b0-1b68-49d4-a45e-02699fbb9ec1
+64,Mr. Deeds Goes to Town,1936,115,"Comedy,Drama,Romance",7.9,"20,594",9a189d11-e4f6-4b2b-9762-702806ce4a85
+65,Romeo and Juliet,1936,125,"Drama,Romance",6.5,"1,910",1b04f1e8-f46b-403f-a5df-89ebebb52e4a
+66,San Francisco,1936,115,"Drama,Musical,Romance",7.2,"5,254",d9c9ba4b-4fcd-4253-ba8b-8a80ea852fb9
+67,The Story of Louis Pasteur,1936,86,"Biography,Drama,History",7.3,"2,601",40acf99f-bc62-45ee-a766-0297530113d1
+68,A Tale of Two Cities,1935,128,"Drama,History,Romance",7.8,"5,508",da9c58f7-84b6-4d02-a66a-b5b19d3eea7f
+69,Three Smart Girls,1936,84,"Comedy,Musical,Romance",6.7,"1,344",8866b966-f0a8-4881-88f6-ac7c24e9e1e5
+70,The Life of Emile Zola,1937,116,"Biography,Drama",7.2,"7,771",0538990c-5cfe-4b21-b733-386740e5cbd6
+71,The Awful Truth,1937,90,"Comedy,Romance",7.7,"18,721",fe542b19-4de9-465d-8b97-19ff88872e56
+72,Captains Courageous,1937,117,"Adventure,Drama,Family",8.0,"9,243",bb80b913-a013-4ff1-8c07-7e0ff28c4557
+73,Dead End,1937,93,"Crime,Drama,Film-Noir",7.3,"7,083",5df24f1d-57f8-4d1d-a15d-df07ea5715b1
+74,The Good Earth,1937,138,"Drama,Romance",7.5,"4,753",6d9e1900-6589-43ae-b80f-863d03cbbdaa
+75,In Old Chicago,1938,95,"Action,Drama,Musical",6.8,"2,233",1957aeb5-48c9-423c-8a3d-1f918ba388d2
+76,Lost Horizon,1937,132,"Adventure,Drama,Fantasy",7.7,"12,513",20f2a079-71bd-4c1c-aff7-46237962b8cb
+77,One Hundred Men and a Girl,1937,84,"Comedy,Drama,Music",6.8,"1,029",c3d7ac23-64c7-48e5-8aba-c2af3f5b23eb
+78,Stage Door,1937,92,"Comedy,Drama",7.8,"8,040",5a739df8-434b-46e9-82c0-9b8f71c9c946
+79,A Star Is Born,1937,111,"Drama,Romance",7.3,"9,301",ea80da77-0642-48c5-a2eb-1d03fb856d2f
+80,You Can't Take It with You,1938,126,"Comedy,Drama,Romance",7.9,"24,466",7530ae81-5165-4431-8a05-5e3a75811021
+81,The Adventures of Robin Hood,1938,102,"Action,Adventure,Romance",7.9,"49,004",bec32b70-fccd-4f50-b68d-88cca2d2fc7b
+82,Alexander's Ragtime Band,1938,106,"Drama,Music,Musical",6.9,"2,042",a380741f-f2ba-415d-a5b5-f81f826f93a7
+83,Boys Town,1938,96,"Biography,Drama",7.3,"5,449",ebce9bc4-4abc-4b48-929f-30a29b1edd7d
+84,The Citadel,1938,110,Drama,7.1,"2,047",84a31ac1-04d7-4810-af0a-b639d529f159
+85,Four Daughters,1938,90,"Drama,Music,Romance",6.9,"1,881",bf7bd76e-f5f7-4a5a-a24e-6ce226a605e9
+86,Grand Illusion,1937,113,"Drama,War",8.1,"35,191",121b4de3-2e42-45eb-a8cc-f4496df79d8a
+87,Jezebel,1938,104,"Drama,Romance",7.5,"12,874",70ed2948-fca0-42ab-8421-51bc760a62d4
+88,Pygmalion,1938,89,"Comedy,Drama,Romance",7.8,"8,321",31a7d601-261c-478d-969c-5f64d33d531d
+89,Test Pilot,1938,119,"Drama,Romance",6.9,"2,323",ce4b4264-affe-4e48-9d0b-49b6532449b2
+90,Gone with the Wind,1939,238,"Drama,History,Romance",8.1,"300,592",bcad3809-e6ad-471a-8e05-1035efaaaaf4
+91,Dark Victory,1939,104,"Drama,Romance",7.5,"10,648",ae377884-4d60-47f5-893a-1d2577eb6405
+92,"Goodbye, Mr. Chips",1939,114,"Drama,Romance",7.9,"10,164",72360bec-f930-4772-beac-21bee3e92055
+93,Love Affair,1939,88,"Comedy,Drama,Romance",7.3,"4,857",c04357fe-39cc-414f-b871-94be98bc38ed
+94,Mr. Smith Goes to Washington,1939,129,"Comedy,Drama",8.1,"110,984",38d9b2bf-23d2-4827-8bfa-336ba0dbf1c3
+95,Ninotchka,1939,110,"Comedy,Romance",7.9,"19,988",62d27610-e080-4569-9260-c7883e13adbc
+96,Of Mice and Men,1939,106,"Adventure,Drama",7.9,"5,813",45488a28-fbf5-4264-944a-d0daa7030486
+97,Stagecoach,1939,96,"Adventure,Drama,Western",7.9,"45,997",48e19755-7fc6-48d3-af96-7024e9f688ef
+98,The Wizard of Oz,1939,102,"Adventure,Family,Fantasy",8.0,"378,893",736cefc8-1a8f-4249-943d-7dce78308ddf
+99,Wuthering Heights,1939,104,"Drama,Romance",7.6,"17,314",961860de-899b-4c9a-85ba-d5fb0359cbfb
+100,Rebecca,1940,130,"Drama,Mystery,Romance",8.1,"130,546",e39af7f6-07a0-44e2-ad07-3924634c0aea
+101,"All This, and Heaven Too",1940,141,"Drama,Romance",7.5,"4,728",83619bb1-3c1d-4e3b-bf20-98f9dca469f3
+102,Foreign Correspondent,1940,120,"Action,Romance,Thriller",7.5,"19,657",d0f8a19e-333c-4dde-aedc-5a15d1df26e0
+103,The Grapes of Wrath,1940,129,"Drama,History",8.1,"89,303",1709969c-4b54-4c2b-a3ef-384c9a800499
+104,The Great Dictator,1940,125,"Comedy,Drama,War",8.4,"212,446",0abfd0f9-e6e1-4472-8b47-c36c4d34b76e
+105,Kitty Foyle,1940,108,"Drama,Romance",6.9,"3,495",31371633-b7be-4548-a770-c594d52adc1b
+106,The Letter,1940,95,"Crime,Drama,Film-Noir",7.6,"12,503",a70ff35f-ffc2-4081-8af5-e21d50f21adb
+107,The Long Voyage Home,1940,105,"Drama,War",7.0,"4,139",a7c8d95f-898d-40c0-9880-be1174375e08
+108,Our Town,1940,90,"Drama,Romance",6.6,"2,525",094d9387-875a-4973-b6e4-fed1231ae253
+109,The Philadelphia Story,1940,112,"Comedy,Romance",7.9,"66,044",c75809c1-8391-4a67-924b-4a5dfcfdaef0
+110,How Green Was My Valley,1941,118,"Drama,Family",7.7,"22,753",86576fae-02a5-4f78-afe5-908908310def
+111,Blossoms in the Dust,1941,99,"Biography,Drama,Romance",6.9,"1,919",75142b0a-bc65-40aa-82b6-716395a2946d
+112,Citizen Kane,1941,119,"Drama,Mystery",8.3,"420,959",765e5aea-e5af-4695-9be2-f3ef765b8012
+113,Here Comes Mr. Jordan,1941,94,"Comedy,Fantasy,Romance",7.6,"6,154",0da3472b-30f2-499d-9418-6af8d76d2028
+114,Hold Back the Dawn,1941,116,"Drama,Romance",7.4,"2,247",0c375c45-09a9-464e-bc4e-15a1df41ba11
+115,The Little Foxes,1941,116,"Drama,Romance",8.0,"11,254",4fd7b78f-8984-4220-a075-b30022fde49f
+116,The Maltese Falcon,1941,100,"Crime,Film-Noir,Mystery",8.0,"152,988",86d1ae85-1bda-4459-912d-d21a430496b9
+117,One Foot in Heaven,1941,108,"Biography,Drama",6.8,"1,213",ea25fe87-1c55-4e28-bd3f-4bef5da7419e
+118,Sergeant York,1941,134,"Biography,Drama,History",7.7,"17,415",4c463067-6325-43eb-8f11-e17695722ca9
+119,Suspicion,1941,99,"Film-Noir,Mystery,Thriller",7.4,"36,081",d7422da7-0391-4b9e-a1e6-99a169b7d9fe
+120,Mrs. Miniver,1942,134,"Drama,Romance,War",7.6,"16,879",697603ab-2be4-4a8c-88be-b96bdfe299cf
+121,49th Parallel,1941,123,"Drama,Thriller,War",7.3,"6,333",6f05b0c0-cc9e-4f2f-b208-0aec3b17c727
+122,Kings Row,1942,127,"Drama,Mystery,Romance",7.5,"4,285",c19bbf1c-15de-4eba-9ae4-c491063a83fe
+123,The Magnificent Ambersons,1942,88,"Drama,Romance",7.7,"23,662",36febb3c-b95a-4830-a4a4-8e2ec057cbd2
+124,The Pied Piper,1942,87,"Drama,War",7.1,565,91e29b8b-715b-4755-a0f1-ee5098a0cdf3
+125,The Pride of the Yankees,1942,128,"Biography,Drama,Romance",7.7,"10,459",13aebc37-5ad5-45fc-888f-8acedb312621
+126,Random Harvest,1942,126,"Adventure,Drama,Family",8.0,"7,331",9a4e6934-a118-4962-9a79-0bf4950f1b65
+127,The Talk of the Town,1942,118,"Comedy,Drama,Romance",7.5,"7,884",d960aa81-38e9-466c-8b15-96ba859fcc80
+128,Wake Island,1942,88,"Action,Drama,War",6.8,"1,924",c7d20743-838e-46e9-bed1-449681a16609
+129,Yankee Doodle Dandy,1942,126,"Biography,Drama,Music",7.7,"14,872",06f78a82-6916-485b-9753-a1ba18a4a938
+130,Casablanca,1942,102,"Drama,Romance,War",8.5,"541,023",5450540a-1dec-4572-8752-75c5ae55cf7d
+131,For Whom the Bell Tolls,1943,170,"Adventure,Drama,History",6.9,"8,880",f8981628-2933-42ec-a21b-e9c31164979b
+132,Heaven Can Wait,1943,112,"Comedy,Drama,Fantasy",7.4,"10,272",7694bb35-bd99-4b9f-8616-e3c1c0462484
+133,The Human Comedy,1943,117,"Comedy,Drama,Family",7.0,"2,044",e85d6ec9-cb6f-4daa-bf6d-876b7104b675
+134,In Which We Serve,1942,115,"Drama,War",7.2,"5,442",af643708-8af7-43c3-9aeb-26be972a6288
+135,Madame Curie,1943,124,"Biography,Drama,Romance",7.2,"2,779",a9dc092c-409a-4d55-a169-b514b7784136
+136,The More the Merrier,1943,104,"Comedy,Romance,War",7.7,"6,264",c8d03653-289f-422c-a385-fb2097fd2996
+137,The Ox-Bow Incident,1942,75,"Adventure,Drama,Western",8.0,"22,189",5577eaba-960d-452f-a3f3-6a1bc66070a0
+138,The Song of Bernadette,1943,156,"Biography,Drama",7.6,"6,554",7b8c91d7-b87f-4871-ad87-dec95f2fd0da
+139,Watch on the Rhine,1943,114,"Drama,Thriller",7.3,"4,246",1a4e8a94-150d-484a-8b25-959ab5dfc42e
+140,Going My Way,1944,126,"Comedy,Drama,Music",7.1,"11,187",e8c09304-ad53-4c4d-9d08-72b059d37892
+141,Double Indemnity,1944,107,"Crime,Drama,Film-Noir",8.3,"149,399",c08eaccc-190e-4e88-bb31-e2a9ddf6f09c
+142,Gaslight,1944,114,"Crime,Drama,Mystery",7.8,"26,296",bd1cbfe3-80d9-4c20-81ee-1fcccdd3b2a4
+143,Since You Went Away,1944,177,"Drama,Romance,War",7.5,"4,428",8eee9309-2368-44a0-b135-e1d857b03f3a
+144,Wilson,1944,154,"Biography,Drama,History",6.4,"1,525",2591f82c-c979-47ab-9974-750661ef6a59
+145,The Lost Weekend,1945,101,"Drama,Film-Noir",7.9,"35,261",0b7a2648-33c4-4eed-b40d-86b581f69c9c
+146,Anchors Aweigh,1945,140,"Comedy,Fantasy,Music",7.1,"8,298",a9713f3b-472e-4338-bd59-6021b65a9c75
+147,The Bells of St. Mary's,1945,126,Drama,7.3,"7,546",f155c808-5944-457e-a02a-a21df320706a
+148,Mildred Pierce,1945,111,"Crime,Drama,Film-Noir",8.0,"24,288",6f3cf796-6ae0-4219-84c8-211dd3ec205d
+149,Spellbound,1945,111,"Film-Noir,Mystery,Romance",7.5,"46,578",e285e8cf-d49c-48b8-b75f-20dcb3d82804
+150,The Best Years of Our Lives,1946,170,"Drama,Romance,War",8.1,"60,810",0d07ce49-6844-4370-b4d7-10d9f02565ba
+151,Henry V,1944,137,"Biography,Drama,History",7.1,"6,145",8be23af2-d367-4e60-aae1-77505db9de19
+152,It's a Wonderful Life,1946,130,"Drama,Family,Fantasy",8.6,"420,975",d17331c1-4d16-4d92-8718-629629129d7c
+153,The Razor's Edge,1946,145,"Drama,Romance",7.4,"5,770",3328143b-a27d-4cfc-b6d8-44086e698a9e
+154,The Yearling,1946,128,"Drama,Family,Western",7.2,"5,658",c7fac549-3837-42a5-b768-9312e6104ee9
+155,Gentleman's Agreement,1947,118,"Drama,Romance",7.2,"15,593",2de2c926-1509-4aca-bb49-6a2514c7ec7a
+156,The Bishop's Wife,1947,109,"Comedy,Drama,Fantasy",7.6,"15,790",785f3b90-b888-4e90-9c85-5f7029845027
+157,Crossfire,1947,86,"Crime,Drama,Film-Noir",7.3,"8,030",17e1d9b6-6666-4a83-a898-c1a2472f3cf2
+158,Great Expectations,1946,118,"Adventure,Drama,Mystery",7.8,"23,120",17b7b449-345b-4d36-8d67-65597db9d27f
+159,Miracle on 34th Street,1947,96,"Comedy,Drama,Family",7.9,"44,012",ef10f104-3bb4-4576-be62-49bd89ffa349
+160,Hamlet,1948,154,Drama,7.6,"16,167",443109e2-d3c6-4b1d-9bec-3c732801d861
+161,Johnny Belinda,1948,102,Drama,7.8,"4,549",45588422-6266-430e-b2e1-292fbf12e238
+162,The Red Shoes,1948,135,"Drama,Music,Romance",8.1,"32,804",75ddd507-9137-452e-b08c-89cbb2297bd8
+163,The Snake Pit,1948,108,"Drama,Mystery",7.6,"7,232",894290ac-2b55-458e-b4b6-c5978fc487c7
+164,The Treasure of the Sierra Madre,1948,126,"Adventure,Drama,Western",8.2,"119,133",76320732-9fe8-40c8-9532-bf16a4b45483
+165,All the King's Men,1949,110,"Drama,Film-Noir",7.5,"14,270",80c1f8b9-36f0-4648-9103-1a27b4b15d6f
+166,Battleground,1949,118,"Action,Drama,History",7.5,"6,970",8e1fd126-bcd3-4f20-bfa7-54bcc056dfe8
+167,The Heiress,1949,115,"Drama,Romance",8.2,"14,871",27cd281b-e5bd-4b05-9634-8557891a9593
+168,A Letter to Three Wives,1949,103,"Drama,Romance",7.7,"9,000",2c905a08-03f0-45e6-91e7-a9c9bc17826d
+169,Twelve O'Clock High,1949,132,"Drama,War",7.7,"13,989",1a47efdd-746d-4c28-bd9f-15d2553c73ae
+170,All About Eve,1950,138,Drama,8.2,"125,426",95920d24-3ce7-41e7-bf13-35f70fa38da1
+171,Born Yesterday,1950,103,"Comedy,Drama,Romance",7.6,"10,597",7e8fd405-833d-4bba-821c-88f3601017a2
+172,Father of the Bride,1950,92,"Comedy,Romance",7.2,"10,742",f83ea7fe-8013-4f13-bda4-4458c4d177e1
+173,King Solomon's Mines,1950,103,"Action,Adventure,Romance",6.8,"5,929",da749acb-0277-4941-93b2-54dda27d75fb
+174,Sunset Boulevard,1950,110,"Drama,Film-Noir",8.4,"210,129",ed6d6f9d-2b4e-495e-bdfc-4b3c4f96ee5a
+175,An American in Paris,1951,114,"Drama,Musical,Romance",7.2,"31,953",11fe2b71-cbc2-446f-a3d6-2c5b75ca4dd3
+176,Decision Before Dawn,1951,119,"Drama,War",7.2,"2,596",1d36e03f-db5b-44e6-8cba-9c914bcb72f0
+177,A Place in the Sun,1951,122,"Drama,Romance",7.8,"21,429",4ca1818a-9d22-4a5e-884e-4f892a2232ed
+178,Quo Vadis,1951,171,"Biography,Drama,History",7.2,"14,371",493704e4-edf5-493c-ba97-ff530fe7332f
+179,A Streetcar Named Desire,1951,122,Drama,8.0,"103,781",2c848e08-0362-4305-b9c6-b52b3210b998
+180,The Greatest Show on Earth,1952,152,"Drama,Family,Romance",6.6,"13,797",cc4a95ef-5ae4-4c0a-8ccb-086764ef8c36
+181,High Noon,1952,85,"Drama,Thriller,Western",8.0,"100,501",839c34d7-1b03-447d-b883-d03e35bd12c5
+182,Ivanhoe,1952,106,"Adventure,Drama,History",6.8,"8,627",0726de1a-97f7-4d02-8ebf-ede53d66faf7
+183,Moulin Rouge,1952,119,"Biography,Drama,Music",7.1,"5,284",ba1a50b8-ecb8-4626-b122-a29205c20a4f
+184,The Quiet Man,1952,129,"Comedy,Drama,Romance",7.8,"36,499",6e88383e-fac9-4946-a4fc-f4d0a9647c07
+185,From Here to Eternity,1953,118,"Drama,Romance,War",7.6,"45,045",4053e1d8-c821-4247-a020-baca7eaef18d
+186,Julius Caesar,1953,120,"Biography,Drama,History",7.3,"11,012",c809744c-13bb-4ded-b500-91b644ee825f
+187,The Robe,1953,135,"Drama,History",6.8,"9,876",2ee37736-fd84-4b57-a9c9-df11a9e70329
+188,Roman Holiday,1953,118,"Comedy,Romance",8.0,"132,970",b732f88f-79d4-43c3-b355-02f7898d908f
+189,Shane,1953,118,"Drama,Western",7.6,"38,752",32b9e439-a62e-4fbc-b103-dd8cbbd34f5e
+190,On the Waterfront,1954,108,"Crime,Drama,Thriller",8.1,"147,893",6e80353a-6ace-497d-9c6c-1756457a6dc8
+191,The Caine Mutiny,1954,124,"Drama,War",7.7,"26,649",6eae2bc6-40f4-44f8-85c6-a11f363726cf
+192,The Country Girl,1954,104,"Drama,Music",7.3,"5,766",27b1c21b-9ec8-4270-84a1-ff91400e2b2e
+193,Seven Brides for Seven Brothers,1954,102,"Comedy,Drama,Musical",7.4,"23,448",96a4a3d6-e8dd-40cb-a54c-b5dbcbfc5e32
+194,Three Coins in the Fountain,1954,102,"Drama,Romance",6.3,"3,276",2ebbefba-fb33-47ed-97bb-2b22c85606db
+195,Marty,1955,90,"Drama,Romance",7.7,"22,916",0e335b5a-ed13-4c51-8028-d489d57a1e75
+196,Love Is a Many-Splendored Thing,1955,102,"Biography,Drama,Romance",6.5,"4,688",2bd69ac3-6b2e-4132-b1b0-0f073a1c75e9
+197,Mister Roberts,1955,123,"Comedy,Drama,War",7.7,"16,057",eab1a500-de95-4cf8-a44e-314760de571d
+198,Picnic,1955,115,"Drama,Romance",7.1,"8,425",d9576b2a-0b16-4c95-b574-4ea6cd782260
+199,The Rose Tattoo,1955,117,"Comedy,Drama,Romance",7.0,"3,763",a74c209a-4f5f-4f90-aaec-6c77b62b3ed3
+200,Around the World in 80 Days,1956,175,"Adventure,Comedy,Family",6.8,"26,019",a0ddcb59-a173-4ffb-9139-3a1a71d006aa
+201,Friendly Persuasion,1956,137,"Drama,Romance,War",7.4,"6,784",bde43e69-9c9b-4b7b-a438-f5aa9dcb8808
+202,Giant,1956,201,"Drama,Western",7.6,"36,951",c77c1d53-c9ea-400d-ad82-7e740e7f1e29
+203,The King and I,1956,133,"Biography,Drama,Musical",7.4,"24,685",05914cd6-60ae-4836-bdc7-1e6ec4b1eb8c
+204,The Ten Commandments,1956,220,"Adventure,Drama",7.9,"66,969",7f920258-daa7-4df8-84f1-2f41ddb99b9d
+205,The Bridge on the River Kwai,1957,161,"Adventure,Drama,War",8.1,"210,558",fc627090-b4c0-418b-8437-94b0f41d9bba
+206,12 Angry Men,1957,96,"Crime,Drama",9.0,"725,938",4b3c9249-b991-4a5a-b35d-bf98e217e2bf
+207,Peyton Place,1957,157,"Drama,Romance",7.2,"5,707",548cd53c-e455-4fe0-b10b-64d59cadc17b
+208,Sayonara,1957,147,"Drama,Romance",7.1,"6,473",76b1d406-1398-4917-9007-23484d207a8d
+209,Witness for the Prosecution,1957,116,"Crime,Drama,Mystery",8.4,"115,545",db810dc3-c8f5-40be-b525-a77898135ad4
+210,Gigi,1958,115,"Comedy,Musical,Romance",6.7,"21,807",7d5a1db5-c60e-458c-9f9e-4ce599f4118a
+211,Auntie Mame,1958,143,"Comedy,Drama,Romance",7.9,"10,825",ed3ebe9b-ba2b-4a93-bd71-369b04396fab
+212,Cat on a Hot Tin Roof,1958,108,Drama,8.0,"47,222",466621aa-287c-4316-9083-74a5fc72a4f6
+213,The Defiant Ones,1958,96,"Crime,Drama",7.6,"14,358",45435847-81e6-44f8-891d-59ac0e5bb985
+214,Separate Tables,1958,100,"Drama,Romance",7.4,"7,248",a19cbb5a-db41-4119-a8ed-c805948873a8
+215,Ben-Hur,1959,212,"Adventure,Drama,History",8.1,"227,894",0bb257f6-e9ee-4afd-b8f0-69c2ea1167ae
+216,Anatomy of a Murder,1959,161,"Crime,Drama,Mystery",8.0,"62,835",326c4a14-173e-40e2-a943-bc8e7f61128c
+217,The Diary of Anne Frank,1959,180,"Biography,Drama,Family",7.4,"12,413",77f80298-293e-4bd3-a071-394c8136600d
+218,The Nun's Story,1959,149,Drama,7.6,"9,968",acc60dd6-f542-493e-9900-2174bd8cf1b2
+219,Room at the Top,1959,115,"Drama,Romance",7.5,"5,746",53007b62-3d97-4d58-b381-10747520cb22
+220,The Apartment,1960,125,"Comedy,Drama,Romance",8.3,"171,390",bec485c9-8736-4ec5-8275-478478dc1d20
+221,The Alamo,1960,162,"Adventure,Drama,History",6.8,"15,189",547529c6-55ca-4007-be9d-d064b271c15e
+222,Elmer Gantry,1960,146,Drama,7.8,"11,043",06cb872f-b533-437b-a0ce-89cd08b8c6f6
+223,Sons and Lovers,1960,103,Drama,7.1,"1,506",2f559ba8-3cce-4cdd-a404-fa99f01eb249
+224,The Sundowners,1960,133,"Adventure,Drama",7.1,"4,031",f7881b5a-0ca8-44df-aef1-7428f3a703e0
+225,West Side Story,1961,153,"Crime,Drama,Musical",7.5,"101,270",ef8f5e5d-f603-44ab-b358-091f26b0da7b
+226,Fanny,1961,134,"Drama,Romance",6.9,"2,121",c25b2d36-9391-4279-8a8f-edc0e68d3a41
+227,The Guns of Navarone,1961,158,"Action,Adventure,Drama",7.5,"47,296",ea4834bd-a58a-44a0-b796-7e54e3422e90
+228,The Hustler,1961,134,"Drama,Sport",8.0,"78,871",0d5ee029-1350-4625-b906-afc878129ecf
+229,Judgment at Nuremberg,1961,179,"Drama,War",8.2,"73,363",4de772d6-c839-490e-9e4a-365b48c6570a
+230,Lawrence of Arabia,1962,228,"Adventure,Biography,Drama",8.3,"278,596",77641adf-a5dc-4475-9e3b-dd61c4e32951
+231,The Longest Day,1962,178,"Action,Drama,History",7.8,"53,759",4f1a7a69-6434-477c-9124-2341c633a8a8
+232,The Music Man,1962,151,"Comedy,Family,Musical",7.7,"16,665",1a4cbf83-c2d2-4bad-91c5-83aaac03ed16
+233,Mutiny on the Bounty,1962,178,"Adventure,Drama,History",7.2,"15,634",8d5317bd-df12-4f24-b34d-e5047ef4665e
+234,To Kill a Mockingbird,1962,129,"Crime,Drama",8.3,"303,387",63ebac97-3aa2-4dd3-8d53-3e8476873668
+235,Tom Jones,1963,129,"Adventure,Comedy,History",6.5,"12,448",e96a144c-3f01-4f2f-a3ee-fc54bcd81df9
+236,America America,1963,174,Drama,7.8,"5,215",7b22a71b-6b22-4b6c-a7ee-4f3a9bc6a3f6
+237,Cleopatra,1963,192,"Biography,Drama,History",7.0,"31,027",47a31f2d-67c9-4aa1-a336-6f30e4dc6c57
+238,How the West Was Won,1962,164,Western,7.1,"19,741",418250a9-d63e-41d1-8e48-8a5190ab57f1
+239,Lilies of the Field,1963,94,Drama,7.6,"9,751",cec49f67-0474-42fe-bb36-d75224995e60
+240,My Fair Lady,1964,170,"Drama,Family,Musical",7.8,"90,361",c3a074a7-658b-4a79-a049-eb30cdf3de0e
+241,Becket,1964,148,"Biography,Drama,History",7.8,"14,231",5a35a08e-eafc-46f1-add2-8413867d1bcb
+242,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,Comedy,8.4,"466,261",cd6d6c18-61aa-4e9a-bdec-0dcb2d749dde
+243,Mary Poppins,1964,139,"Comedy,Family,Fantasy",7.8,"163,118",ef2ab197-e570-481a-8a5c-ecc33bbc59ce
+244,Zorba the Greek,1964,142,"Comedy,Drama",7.7,"21,591",91ff3fae-0b8f-495f-bcad-355504e26ba5
+245,The Sound of Music,1965,172,"Biography,Drama,Family",8.0,"215,374",457971a1-ae06-42ce-9ddd-17e9be9b32af
+246,Darling,1965,128,"Drama,Romance",7.1,"6,468",39e6d744-7f92-4cbf-9300-55a43bf7a5e3
+247,Doctor Zhivago,1965,197,"Drama,Romance,War",8.0,"72,548",cb1ae708-873b-4b2e-b0ea-57967782d566
+248,Ship of Fools,1965,149,"Drama,Romance,War",7.1,"5,725",85e8bfd9-99a2-40a6-b331-a333fa851c36
+249,A Thousand Clowns,1965,118,"Comedy,Drama,Romance",7.4,"3,349",18894f37-9638-447a-970c-11024860541f
+250,A Man for All Seasons,1966,120,"Biography,Drama,History",7.7,"33,107",d9e00e8e-315d-4507-9eb2-bf89bde7779a
+251,Alfie,1966,114,"Comedy,Drama",7.0,"14,178",cb3bba47-5662-4b6d-b6fe-fab2b97102ac
+252,"The Russians Are Coming, the Russians Are Coming",1966,126,"Comedy,War",7.0,"8,473",c73f5f10-891e-4204-b848-e5a9e422ad9f
+253,The Sand Pebbles,1966,182,"Adventure,Drama,Romance",7.6,"14,184",dc277c9f-c5fd-46fa-8b70-25dadbc444cb
+254,Who's Afraid of Virginia Woolf?,1966,131,Drama,8.0,"72,597",34a129cf-eb80-461b-a6da-c8f46df67c60
+255,In the Heat of the Night,1967,110,"Crime,Drama,Mystery",7.9,"70,719",467a1595-1c69-442d-ab43-92f68b932ddc
+256,Bonnie and Clyde,1967,111,"Action,Biography,Crime",7.8,"107,803",88b6470e-a145-47f2-b74a-3ba3266f2e4f
+257,Doctor Dolittle,1967,152,"Adventure,Comedy,Family",6.2,"9,028",0d5b2439-d817-4a04-ada3-446556084561
+258,The Graduate,1967,106,"Comedy,Drama,Romance",8.0,"261,921",da0bc2bf-7a48-44b7-be73-8e61624bc7b1
+259,Guess Who's Coming to Dinner,1967,108,"Comedy,Drama",7.8,"41,907",2c26535d-eada-47be-8af1-75bbe5eeed78
+260,Oliver!,1968,153,"Drama,Family,Musical",7.4,"36,386",bc77f25e-71fa-4563-be5d-47648fe69070
+261,Funny Girl,1968,151,"Biography,Comedy,Drama",7.4,"21,174",83010621-a7cc-4e5e-b770-7bdb7c643cd2
+262,The Lion in Winter,1968,134,"Biography,Drama,History",7.9,"30,196",15a28039-7a34-4e2d-89ea-ff8d61b669ff
+263,"Rachel, Rachel",1968,101,"Drama,Romance",7.3,"3,213",55fcf55d-06e6-4b54-8133-aca96742158c
+264,Romeo and Juliet,1968,138,"Drama,Romance",7.6,"30,500",b89ed64f-55e8-4c3e-80ee-e7ba748531ab
+265,Midnight Cowboy,1969,113,Drama,7.8,"106,077",bc91f715-a16b-4de7-8aa5-7b0b2f875bdb
+266,Anne of the Thousand Days,1969,145,"Biography,Drama,History",7.5,"7,138",56358a21-e826-4674-a4b5-aefbf11395a0
+267,Butch Cassidy and the Sundance Kid,1969,110,"Biography,Crime,Drama",8.0,"208,400",174d890a-717f-4f2d-bff6-03b91ede8466
+268,"Hello, Dolly!",1969,146,"Adventure,Comedy,Musical",7.1,"14,420",204c5d1d-ac8b-41fe-ba95-77c323121c43
+269,Z,1969,127,"Crime,Drama,History",8.3,"25,227",65fd73b8-d854-42fb-97eb-2ed7866c831d
+270,Patton,1970,172,"Biography,Drama,War",7.9,"98,155",542831fe-9ee4-4997-badb-98cabd43c3d2
+271,Airport,1970,137,"Action,Drama,Thriller",6.6,"18,289",5bbfb550-a96e-49a4-90fc-a8351617e709
+272,Five Easy Pieces,1970,98,Drama,7.5,"35,199",0d283411-d75d-413e-b31c-ece555cf661f
+273,Love Story,1970,100,"Drama,Romance",6.9,"32,681",0a7e8fe6-3614-4599-bdf3-1bc14f161ffa
+274,M*A*S*H,1970,116,"Comedy,Drama,War",7.5,"69,897",f65882a5-46f8-42f7-9302-bfc76fd0989d
+275,The French Connection,1971,104,"Action,Crime,Drama",7.7,"115,341",02e62c41-fdb4-401f-a2a5-615fec952f9e
+276,A Clockwork Orange,1971,136,"Crime,Drama,Sci-Fi",8.3,"783,346",b19db2e9-f854-4631-99b6-9c4ab7d08077
+277,Fiddler on the Roof,1971,181,"Drama,Family,Musical",8.0,"41,233",adaf460e-b6f6-4acf-9419-b396d719a400
+278,The Last Picture Show,1971,118,"Drama,Romance",8.0,"44,843",c4c3d7c5-c66c-4148-b205-812f47fc9c4f
+279,Nicholas and Alexandra,1971,183,"Biography,Drama,History",7.2,"4,671",85261a3e-21e0-4862-9850-5cef43307bc0
+280,The Godfather,1972,175,"Crime,Drama",9.2,"1,697,396",fa8d4d3c-41e1-488f-a30d-715a0ff09764
+281,Cabaret,1972,124,"Drama,Music,Musical",7.8,"51,698",e353fab3-80df-4ebd-afcd-93f70b158537
+282,Deliverance,1972,109,"Adventure,Drama,Thriller",7.7,"102,934",5ab0fdff-d86a-4320-822c-33d1184f43e6
+283,The Emigrants,1971,151,"Drama,History",8.0,"6,121",ec2ca519-2209-40f8-b5e0-d1776bf1b140
+284,Sounder,1972,105,"Drama,Family",7.6,"3,920",6e7ed550-a733-4030-a8e4-2aaf59a245dd
+285,The Sting,1973,129,"Comedy,Crime,Drama",8.3,"249,856",bb6ef738-b9e4-49a2-b8fb-ab2429add488
+286,American Graffiti,1973,110,"Comedy,Drama",7.4,"85,117",a2b35269-b14a-4126-a4bc-0530348b2457
+287,Cries and Whispers,1972,91,Drama,8.1,"32,122",1f294125-03d2-4cca-b9b0-b767bdb0b816
+288,The Exorcist,1973,122,Horror,8.0,"375,156",0cb63313-b7e2-49db-8bf9-17e72d61183e
+289,A Touch of Class,1973,106,"Comedy,Romance",6.5,"2,991",db331a83-f319-4566-99a6-3c1d77937cf9
+290,The Godfather Part II,1974,202,"Crime,Drama",9.0,"1,178,981",a29ebc75-3d9a-441f-966c-7b53a3478a71
+291,Chinatown,1974,130,"Drama,Mystery,Thriller",8.2,"308,349",fc910341-bca7-4172-abff-116ca3e6d80e
+292,The Conversation,1974,113,"Drama,Mystery,Thriller",7.8,"105,312",51f09950-d054-4bed-b422-cde53c0ad5d3
+293,Lenny,1974,111,"Biography,Drama",7.6,"15,444",4a3d4e06-2109-4585-a4c1-53f25ae82ea3
+294,The Towering Inferno,1974,165,"Action,Drama,Thriller",7.0,"41,582",7fb8aa38-464b-4846-85e0-e7e6cb0caaf8
+295,One Flew Over the Cuckoo's Nest,1975,133,Drama,8.7,"950,833",93bd4453-5aa2-48b8-b2a6-c3f564fda13c
+296,Barry Lyndon,1975,185,"Adventure,Drama,History",8.1,"157,491",96bd883e-8ef5-4ad1-999f-2892326d1548
+297,Dog Day Afternoon,1975,125,"Biography,Crime,Drama",8.0,"245,162",25ec6295-c9bc-4535-8b76-c4c4b6932b27
+298,Jaws,1975,124,"Adventure,Thriller",8.0,"563,056",49107a35-a34e-44c0-8324-843c7535719f
+299,Nashville,1975,160,"Comedy,Drama,Music",7.7,"25,084",2db901c8-7162-466f-a4d6-22aba1a726bf
+300,Rocky,1976,120,"Drama,Sport",8.1,"537,813",9cc026b8-3a23-4db9-a703-c2353be1ee4d
+301,All the President's Men,1976,138,"Biography,Drama,History",8.0,"109,033",048b181b-f1c1-4e3e-bb57-008c90e68339
+302,Bound for Glory,1976,147,"Biography,Drama,Music",7.3,"4,892",7ac51fff-7c08-48bb-8711-09a28224a21a
+303,Network,1976,121,Drama,8.1,"151,780",09e7097f-0026-4147-9f4d-a17b04a57690
+304,Taxi Driver,1976,114,"Crime,Drama",8.2,"758,393",5fca34f6-fdf8-4e6f-a845-ba51eed1fc2e
+305,Annie Hall,1977,93,"Comedy,Romance",8.0,"257,550",50965bec-a059-4941-954a-07fddfa5a5e5
+306,The Goodbye Girl,1977,111,"Comedy,Drama,Romance",7.4,"13,292",e437045d-d8e6-466b-98f5-bf81d91883eb
+307,Julia,1977,117,Drama,7.2,"9,219",c982281e-2dfa-4de4-afb2-9bb7ad5300dc
+308,Star Wars,1977,121,"Action,Adventure,Fantasy",8.6,"1,272,908",b03dfef6-a70b-43ef-bdf3-011c42307248
+309,The Turning Point,1977,119,"Drama,Romance",6.9,"4,457",b43cfa51-76a9-4f3a-a5f2-baacb12be7b4
+310,The Deer Hunter,1978,183,"Drama,War",8.1,"323,543",dcfb372f-430d-4998-a7f2-f23a78863ed4
+311,Coming Home,1978,127,"Drama,Romance,War",7.3,"13,023",1354afbf-5844-458c-a3c6-21c3119083c6
+312,Heaven Can Wait,1978,101,"Comedy,Fantasy,Romance",6.9,"19,822",8f0dd2a2-3322-4372-af45-cf1940585d86
+313,Midnight Express,1978,121,"Biography,Crime,Drama",7.6,"76,311",01c95862-5a79-4087-9ae7-6f179d49ecd6
+314,An Unmarried Woman,1978,124,"Comedy,Drama,Romance",7.2,"5,113",c5d97b57-e71f-40a9-a696-baaefe835b93
+315,Kramer vs. Kramer,1979,105,Drama,7.8,"138,582",40ddb2ef-ead7-4129-9a4a-005bcb9385db
+316,All That Jazz,1979,123,"Drama,Music,Musical",7.9,"29,674",fcf2c847-059b-4750-b7a2-f1d150fadc63
+317,Apocalypse Now,1979,147,"Drama,Mystery,War",8.4,"627,726",7d84dcde-add0-4d6e-a416-5f418b0ee4a5
+318,Breaking Away,1979,101,"Comedy,Drama,Romance",7.7,"22,594",73d83b0b-79ba-47da-b7f2-ef0c2f78860b
+319,Norma Rae,1979,114,Drama,7.3,"11,062",42fd0a2b-55a7-4131-89a9-9de4d028d022
+320,Ordinary People,1980,124,Drama,7.7,"49,328",c7fdd5fc-4ab9-4195-8462-51c65f7cddd0
+321,Coal Miner's Daughter,1980,124,"Biography,Drama,Music",7.5,"17,579",e30d2afc-0324-4610-8579-2dc703156dd3
+322,The Elephant Man,1980,124,"Biography,Drama",8.1,"229,693",0887d632-30bd-4e84-9d29-6bbfdd5984b8
+323,Raging Bull,1980,129,"Biography,Drama,Sport",8.2,"334,550",06fac879-3ee3-4c83-b676-16c49688b302
+324,Tess,1979,186,"Drama,Romance",7.3,"15,999",4e06a3f7-c35d-40a9-9a49-45738b7c505b
+325,Chariots of Fire,1981,125,"Biography,Drama,Sport",7.2,"57,292",dd41a9d6-8ccd-493a-8208-c515dd3053c1
+326,Atlantic City,1980,104,"Crime,Drama,Romance",7.3,"16,039",554cc033-c312-486f-82d5-f751453452de
+327,On Golden Pond,1981,109,Drama,7.6,"29,276",f8b74df8-6eda-4e06-80f3-1222e3caa4a3
+328,Raiders of the Lost Ark,1981,115,"Action,Adventure",8.4,"914,188",f70968f4-9afa-42d1-b73f-7bc1cbdbc218
+329,Reds,1975,127,"Horror,Mystery,Thriller",7.6,"35,213",cb11d99b-5b54-4b7f-9526-45c7b96af6d7
+330,Gandhi,1982,191,"Biography,Drama,History",8.0,"223,282",f4628a4a-c61d-4c53-8ee3-c44d18c7d400
+331,E.T. the Extra-Terrestrial,1982,115,"Family,Sci-Fi",7.8,"386,073",46284c86-cb07-478c-8456-8fd89e9c84a9
+332,Missing,1982,122,"Biography,Drama,History",7.7,"20,689",b113ce60-c3f8-4941-b9da-ebfe82a3fc9e
+333,Tootsie,1982,116,"Comedy,Drama,Romance",7.4,"101,492",70a9622e-6db7-4e2c-aee8-10e95dada668
+334,The Verdict,1982,129,Drama,7.7,"37,826",7652b232-b5ee-4956-8681-297fc00d41ab
+335,Terms of Endearment,1983,132,"Comedy,Drama",7.4,"57,538",a9656df0-28f7-4c29-b304-676781b0aee1
+336,The Big Chill,1983,105,"Comedy,Drama",7.2,"34,895",c8242d31-95c1-4c16-84b1-ec015f01c19a
+337,The Dresser,1983,118,Drama,7.6,"5,072",3cf23d0c-6db3-4107-85bf-9416b8ea75ff
+338,The Right Stuff,1983,193,"Adventure,Biography,Drama",7.8,"59,265",6abefa70-b1a8-488e-a096-68be3603d570
+339,Tender Mercies,1983,92,"Drama,Music",7.4,"10,060",a7ce9a76-c855-4559-8100-17e45efa32da
+340,Amadeus,1984,160,"Biography,Drama,History",8.3,"381,101",eae6dbc2-eeb2-428f-a591-0edebbd0c579
+341,The Killing Fields,1984,141,"Biography,Drama,History",7.8,"53,545",6ac6765b-1aae-4bdf-8d0e-3b70b695a185
+342,A Passage to India,1984,164,"Adventure,Drama,History",7.3,"18,017",47237a83-cdd6-4b9f-8d52-a1ceeef87a1f
+343,Places in the Heart,1984,111,Drama,7.4,"11,271",62697f02-1274-4648-962e-44b423322cf5
+344,A Soldier's Story,1984,101,"Crime,Drama,Mystery",7.2,"9,570",5c207c3e-8e9c-4b50-a2e6-045cca40862a
+345,Out of Africa,1985,161,"Biography,Drama,Romance",7.2,"76,084",13188c13-9d17-47b3-951d-02210617670d
+346,The Color Purple,1985,154,Drama,7.8,"82,027",529887f4-f40c-4df4-bde7-61edbc3b83ef
+347,Kiss of the Spider Woman,1985,120,Drama,7.4,"15,003",01b3d4bc-21ef-4792-8b0b-587b77b165e6
+348,Prizzi's Honor,1985,130,"Comedy,Crime,Drama",6.7,"23,681",77e1a54f-4e63-4d9f-af02-d769a4cd9231
+349,Witness,1985,112,"Crime,Drama,Romance",7.4,"90,252",4b7f540c-15bc-4304-99cb-8e71b4aeb986
+350,Platoon,1986,120,"Drama,War",8.1,"394,151",7e6ac04e-1578-40f4-a38d-62fd5169e065
+351,Children of a Lesser God,1986,119,"Drama,Romance",7.2,"15,807",c60692a0-d167-403e-b91e-b928c84a82ab
+352,Hannah and Her Sisters,1986,107,"Comedy,Drama",7.9,"69,273",d93370e0-15f5-4332-8f53-934c116db5f2
+353,The Mission,1986,125,"Adventure,Drama,History",7.4,"58,975",25e4f98b-6c66-4073-8298-412c4ef204b8
+354,A Room with a View,1985,117,"Drama,Romance",7.3,"41,517",f90240d7-9cf8-4fa8-beb0-69e8020f188a
+355,The Last Emperor,1987,163,"Biography,Drama,History",7.7,"98,273",451afb73-2c85-47f1-ac5b-f9989f0c7519
+356,Broadcast News,1987,133,"Comedy,Drama,Romance",7.2,"28,908",38fa3d70-d315-4777-aac6-79067a742e28
+357,Fatal Attraction,1987,119,"Drama,Thriller",6.9,"80,634",8b29c745-1a07-4bd5-881b-66dd81fe33ac
+358,Hope and Glory,1987,113,"Comedy,Drama,Romance",7.3,"13,104",db130473-1eda-40a4-babf-da6e269f1064
+359,Moonstruck,1987,102,"Comedy,Drama,Romance",7.1,"54,964",54bb0a14-14b0-4726-a85c-07f6bc91b858
+360,Rain Man,1988,133,Drama,8.0,"488,860",fffb86d7-7db1-427c-866c-06a2e79d745a
+361,The Accidental Tourist,1988,121,"Drama,Romance",6.8,"15,488",b803316c-8926-4441-b44e-a13a70367c77
+362,Dangerous Liaisons,1988,119,"Drama,Romance",7.6,"66,909",dda54969-86a7-475b-a0f3-80c6ce522d0f
+363,Mississippi Burning,1988,128,"Crime,Drama,History",7.8,"94,171",f81a878d-fce0-4d2c-934e-0df851bf826c
+364,Working Girl,1988,113,"Comedy,Drama,Romance",6.8,"54,343",ebabac08-be22-4207-a0ab-436d1e3c2b63
+365,Driving Miss Daisy,1989,99,Drama,7.4,"104,806",feca6bb0-53c9-4495-a143-476bd692387b
+366,Born on the Fourth of July,1989,145,"Biography,Drama,War",7.2,"101,778",a08e135b-07af-4bb9-a9cb-ff293f1372d3
+367,Dead Poets Society,1989,128,"Comedy,Drama",8.1,"446,811",ed614f84-1f17-42bb-8c65-64c484d8ad4f
+368,Field of Dreams,1989,107,"Drama,Family,Fantasy",7.5,"113,841",5f90d9e7-f6e0-421b-845f-84d81ddbec9e
+369,My Left Foot,1989,103,"Biography,Drama",7.9,"71,014",49e21fd0-9d51-4006-9ee6-7518fba27201
+370,Dances with Wolves,1990,181,"Adventure,Drama,Western",8.0,"249,524",98f8f2a9-a385-4248-a892-7c0857fb5260
+371,Awakenings,1990,121,"Biography,Drama",7.8,"132,136",2605a134-1217-4ae4-bf30-43d97858e924
+372,Ghost,1990,127,"Drama,Fantasy,Romance",7.1,"204,848",5e760389-af46-424d-bde2-405623e9ae86
+373,The Godfather Part III,1990,162,"Crime,Drama",7.6,"373,892",881cf2a0-45e8-48b5-a63f-e59fd8e6d31a
+374,Goodfellas,1990,146,"Biography,Crime,Drama",8.7,"1,065,109",99af9db4-124b-4abb-b7cd-ee67426e50c8
+375,The Silence of the Lambs,1991,118,"Crime,Drama,Thriller",8.6,"1,326,186",a6694bfa-4746-421e-bfab-5dd4a062b942
+376,Beauty and the Beast,1991,84,"Animation,Family,Fantasy",8.0,"427,333",9b075c78-d15a-46a2-acf2-cfe6e3b3f946
+377,Bugsy,1991,136,"Biography,Crime,Drama",6.8,"27,635",dad4cc76-9f17-434e-8d0d-58efece318b8
+378,JFK,1991,189,"Drama,History,Thriller",8.0,"147,893",b3cd9be4-89eb-4ab7-8e0f-8740d4cad197
+379,The Prince of Tides,1991,132,"Drama,Romance",6.7,"17,342",1d71e707-d959-4ead-806c-9bb20f42bf3c
+380,Unforgiven,1992,130,"Drama,Western",8.2,"390,280",2ec120ec-af89-47c0-a5de-ee0f0789cf1b
+381,The Crying Game,1992,112,"Crime,Drama,Romance",7.3,"53,289",1035b815-61a1-4381-bbee-4e2bfeff00b5
+382,A Few Good Men,1992,138,"Drama,Thriller",7.7,"245,903",87a4b35b-0e2f-4a81-8563-a30239451080
+383,Howards End,1992,142,"Drama,Romance",7.4,"30,508",02cd0473-5c6d-4537-8e92-e3c081ff133c
+384,Scent of a Woman,1992,156,Drama,8.0,"277,333",9da93e60-2304-4bc0-86e7-e76094b38c1e
+385,Schindler's List,1993,195,"Biography,Drama,History",8.9,"1,261,563",cb4bf724-69a8-4c3a-9334-de33c424441e
+386,The Fugitive,1993,130,"Action,Crime,Drama",7.8,"278,006",51603e98-58cc-49a1-97ea-23a78ca69543
+387,In the Name of the Father,1993,133,"Biography,Crime,Drama",8.1,"165,134",1bd29323-753e-4cad-83e9-1994cd8e5c05
+388,The Piano,1993,121,"Drama,Music,Romance",7.6,"81,749",d7abff59-adc3-4845-bf3d-77b1a109b731
+389,The Remains of the Day,1993,134,"Drama,Romance",7.8,"69,613",c4058de8-5d1f-4a0c-afdf-6e15bcb0d865
+390,Forrest Gump,1994,142,"Drama,Romance",8.8,"1,895,991",f93d65fb-33ab-4b66-9367-a50edabc2d3e
+391,Four Weddings and a Funeral,1994,117,"Comedy,Drama,Romance",7.1,"145,046",7c08aab3-e45c-4ba4-ba1a-fd30a67a320d
+392,Pulp Fiction,1994,154,"Crime,Drama",8.9,"1,900,918",8fc72f03-3f8e-4fc6-9231-ef6474c20433
+393,Quiz Show,1994,133,"Biography,Drama,History",7.5,"66,948",cf8b285f-bd11-4433-88c4-37c897fec130
+394,The Shawshank Redemption,1994,142,Drama,9.3,"2,452,594",995644f5-255c-4564-a647-7d0c8ccc17bb
+395,Braveheart,1995,178,"Biography,Drama,History",8.3,"986,016",67a299f8-aabe-4cde-b74e-e71136632ea3
+396,Apollo 13,1995,140,"Adventure,Drama,History",7.6,"279,684",e0087fa7-4e07-4eb8-9397-b678d99ce8cb
+397,Babe,1995,91,"Comedy,Drama,Family",6.8,"120,428",188f9551-fd40-473e-99da-688378336384
+398,The Postman (Il Postino),1994,108,"Biography,Comedy,Drama",7.7,"34,974",866815ad-c00c-414c-9e9c-e75466ecbcb9
+399,Sense and Sensibility,1995,136,"Drama,Romance",7.7,"108,657",da35eb21-3cf9-4381-a241-064db05f34ac
+400,The English Patient,1996,162,"Drama,Romance,War",7.4,"183,677",30efb856-db60-4652-a757-97ae45337801
+401,Fargo,1996,98,"Crime,Drama,Thriller",8.1,"641,314",f85a45ca-740d-4a6f-9506-6c57321fe04d
+402,Jerry Maguire,1996,139,"Comedy,Drama,Romance",7.3,"251,072",a574b721-f78d-44b9-bdf0-8c016ee72064
+403,Secrets & Lies,1996,136,"Comedy,Drama",8.0,"41,079",93446faf-582d-405b-bb2c-e963732076ee
+404,Shine,1996,105,"Biography,Drama,Music",7.7,"52,751",a300b5d0-bde2-49d7-9456-ead55c4539a7
+405,Titanic,1997,194,"Drama,Romance",7.8,"1,089,044",e7dc77ed-e48d-4cc4-9951-64802f947ce2
+406,As Good as It Gets,1997,139,"Comedy,Drama,Romance",7.7,"285,908",336cbfef-4f00-4c5c-ab6a-6b42e217a150
+407,The Full Monty,1997,91,"Comedy,Drama",7.2,"102,282",7f31cb60-c7dd-42f0-9f70-a3134c3237f4
+408,Good Will Hunting,1997,126,"Drama,Romance",8.3,"896,929",3020a81f-9d77-4d3a-91b5-bbd32cad2aff
+409,L.A. Confidential,1997,138,"Crime,Drama,Mystery",8.2,"550,162",3cd18a77-0296-46a5-b092-b8f85298bc3a
+410,Shakespeare in Love,1998,123,"Comedy,Drama,History",7.1,"218,538",fa9d4ada-fefc-4e5c-a485-799c66b69fc8
+411,Elizabeth,1998,124,"Biography,Drama,History",7.4,"95,572",cbcd4555-61ac-4558-9360-76533048b8f1
+412,Life Is Beautiful,1997,116,"Comedy,Drama,Romance",8.6,"649,390",fcdabd53-1c8b-44fe-a359-d21c4b02b59b
+413,Saving Private Ryan,1998,169,"Drama,War",8.6,"1,287,001",fcdb5a05-a025-412c-ad43-5af72cb3a5a7
+414,The Thin Red Line,1998,170,"Drama,War",7.6,"179,626",3f1dd2d1-b8d0-48f6-9a80-6ccf384c9887
+415,American Beauty,1999,122,Drama,8.3,"1,101,496",393ea3e0-1e32-4c65-8401-e36ab93bf22c
+416,The Cider House Rules,1999,126,"Drama,Romance",7.4,"95,629",3c4ca5f5-080c-4580-b976-cc524daaca09
+417,The Green Mile,1999,189,"Crime,Drama,Fantasy",8.6,"1,198,434",8cb5515b-b9e6-4091-8381-c399ea29d16c
+418,The Insider,1999,157,"Biography,Drama,Thriller",7.8,"165,522",2b4faadc-b2c8-4b62-81f4-434109efd8f2
+419,The Sixth Sense,1999,107,"Drama,Mystery,Thriller",8.1,"939,659",21b54a15-eca1-4777-b01f-1ef88402d8ab
+420,Gladiator,2000,155,"Action,Adventure,Drama",8.5,"1,393,352",3e67a3b9-f24a-420b-b9f8-78870126e1df
+421,Chocolat,2000,121,"Drama,Romance",7.2,"183,002",8886c9d4-e3e8-4471-a859-a3c7d9504b00
+422,"Crouching Tiger, Hidden Dragon",2000,120,"Action,Adventure,Fantasy",7.8,"259,991",f7251c84-34bd-4799-8988-50a0814515d9
+423,Erin Brockovich,2000,131,"Biography,Drama",7.4,"184,808",06d3d335-5b97-4d11-8c20-ef9b39fa1a07
+424,Traffic,2000,147,"Crime,Drama,Thriller",7.6,"201,093",50dc035c-aa8c-4ae7-b590-8de1202c6ae3
+425,A Beautiful Mind,2001,135,"Biography,Drama",8.2,"878,511",69218a0a-fbd1-4a2b-a19b-fc194d43d435
+426,Gosford Park,2001,131,"Comedy,Drama,Mystery",7.2,"83,531",50dff062-b330-46b8-b529-19794302e949
+427,In the Bedroom,2001,131,"Crime,Drama",7.4,"39,427",af8027ac-3084-497a-b1e1-a5405213a6e3
+428,The Lord of the Rings: The Fellowship of the Ring,2001,178,"Action,Adventure,Drama",8.8,"1,724,755",c604e2a8-7845-420e-9d8f-b3919b637b67
+429,Moulin Rouge!,2001,127,"Drama,Musical,Romance",7.6,"273,077",2b0fed46-3cba-42a0-805e-776d022c38c8
+430,Chicago,2002,113,"Comedy,Crime,Musical",7.2,"221,622",5ca65d3f-4b1e-4c9f-a629-06f111c3c7c2
+431,Gangs of New York,2002,167,"Crime,Drama",7.5,"418,948",e70f19b1-f6f2-4a8e-81b5-d5f16c73f4ff
+432,The Hours,2002,110,"Drama,Romance",7.5,"127,773",51a57b94-2340-408a-81aa-3f4a4acc841c
+433,The Lord of the Rings: The Two Towers,2002,179,"Action,Adventure,Drama",8.7,"1,540,135",8e3c29ae-fb18-4813-a3af-d2d8cb071954
+434,The Pianist,2002,150,"Biography,Drama,Music",8.5,"766,841",1ffecc42-aab2-4688-924e-dc759598b98e
+435,The Lord of the Rings: The Return of the King,2003,201,"Action,Adventure,Drama",8.9,"1,703,481",7591962a-1d5a-48dd-a362-8546b21ced73
+436,Lost in Translation,2003,102,"Comedy,Drama",7.7,"431,381",ed953088-38f9-43b3-beb3-f5f447de2ca1
+437,Master and Commander: The Far Side of the World,2003,138,"Action,Adventure,Drama",7.4,"210,599",41879be1-9006-4484-a325-aa2cc29d2894
+438,Mystic River,2003,138,"Crime,Drama,Mystery",7.9,"435,337",45a52a04-0915-4a4d-8034-8fb1b2811258
+439,Seabiscuit,2003,140,"Drama,History,Sport",7.3,"70,147",2f1c775f-7d85-41a3-9ab1-1e99cfae4b94
+440,Million Dollar Baby,2004,132,"Drama,Sport",8.1,"655,679",a360a577-fb0b-4bd2-ae39-35fb5dbb3deb
+441,The Aviator,2004,170,"Biography,Drama",7.5,"344,901",90b4e270-b686-4bf2-9fab-2b01b7aa3dd9
+442,Finding Neverland,2004,106,"Biography,Drama,Family",7.7,"202,139",19cc6810-a1c4-4d0d-a89a-d0d74c2755da
+443,Ray,2004,152,"Biography,Drama,Music",7.7,"142,545",2fbdbfe1-f830-4ddd-bd17-6648c2b9c9bb
+444,Sideways,2004,127,"Comedy,Drama,Romance",7.5,"184,511",c5601ba2-1104-46c1-8c61-74bc9fd90e73
+445,Crash,2004,112,"Crime,Drama,Thriller",7.7,"426,775",4585c429-08f0-4e20-8b9d-d6dcc8fcfbe1
+446,Brokeback Mountain,2005,134,"Drama,Romance",7.7,"337,000",dd71a463-36f8-441f-926c-6f93f4ff9141
+447,Capote,2005,114,"Biography,Crime,Drama",7.3,"128,822",258c1c0d-0b7d-4efb-b5a2-ba3b5d0baf88
+448,"Good Night, and Good Luck",2005,93,"Biography,Drama,History",7.4,"95,865",0631e138-136e-49f5-b31f-0ad5674df13f
+449,Munich,2005,164,"Action,Drama,History",7.5,"218,462",fb74c6a2-d107-4507-bbf1-819e9daa27ae
+450,The Departed,2006,151,"Crime,Drama,Thriller",8.5,"1,235,906",bc73e784-5ad5-45b4-a7b4-132f0ffade15
+451,Babel,2006,143,Drama,7.4,"295,061",03a8d27b-c5bd-4002-bf8e-df24cfd96c86
+452,Letters from Iwo Jima,2006,141,"Action,Adventure,Drama",7.9,"157,732",7e651506-c75d-403b-9673-b4bc77a84ef2
+453,Little Miss Sunshine,2006,101,"Comedy,Drama",7.8,"453,506",16583578-4e99-4999-ab66-9de7d7efc495
+454,The Queen,2006,103,"Biography,Drama,History",7.3,"107,000",348637e8-bc7c-4d44-8b01-7067023960dd
+455,No Country for Old Men,2007,122,"Crime,Drama,Thriller",8.1,"896,630",29a90339-c5f5-4022-8b33-ea349c4b1bd9
+456,Atonement,2007,123,"Drama,Mystery,Romance",7.8,"261,609",5b42aceb-a4cb-4897-a376-712e66946cea
+457,Juno,2007,96,"Comedy,Drama",7.4,"502,296",e41e7111-830b-46a2-93fb-1250a5554bbe
+458,Michael Clayton,2007,119,"Crime,Drama,Mystery",7.2,"160,164",25f1acab-c833-4f4d-ad57-1a283707fbda
+459,There Will Be Blood,2007,158,Drama,8.2,"542,278",41c2923e-f31c-47e4-9be8-e6a447a7d87e
+460,Slumdog Millionaire,2008,120,"Drama,Romance",8.0,"816,485",04b5c110-03a9-43dd-ada0-9d5ec5a2b140
+461,The Curious Case of Benjamin Button,2008,166,"Drama,Fantasy,Romance",7.8,"611,518",20341ee5-10fc-422f-80a8-2285d2a720c3
+462,Frost/Nixon,2008,122,"Biography,Drama,History",7.7,"105,602",70d1eaaa-04ef-40fa-83eb-c76f9924538a
+463,Milk,2008,128,"Biography,Drama",7.5,"168,756",206da0df-8b6f-4ca0-8ced-f05b683b63ae
+464,The Reader,2008,124,"Drama,Romance",7.6,"235,605",2a998534-5479-42e2-bf17-fcf8fcdeab51
+465,The Hurt Locker,2008,131,"Drama,Thriller,War",7.5,"433,326",9b4177d0-0aaf-4921-ab28-50fa0b20affc
+466,Avatar,2009,162,"Action,Adventure,Fantasy",7.8,"1,153,124",62882251-9304-4fec-9fa3-b3d20f9574f5
+467,The Blind Side,2009,129,"Biography,Drama,Sport",7.6,"305,982",7a30c0a9-58fa-41f7-90fd-f85a2c9979d1
+468,District 9,2009,112,"Action,Sci-Fi,Thriller",7.9,"653,215",8f06e9f9-d006-4674-b3c1-62406652630a
+469,An Education,2009,100,Drama,7.3,"131,326",6651de34-a337-4395-8797-2f408016fafa
+470,Inglourious Basterds,2009,153,"Adventure,Drama,War",8.3,"1,326,791",703f43ee-ac54-4db6-838b-9bb256ad85fc
+471,Precious: Based on the Novel 'Push' by Sapphire,2009,110,Drama,7.3,"107,998",85eebe7c-8a46-4b99-a06f-67bae1254117
+472,A Serious Man,2009,106,"Comedy,Drama",7.1,"137,770",700a9b52-7949-432b-b650-6a190328e137
+473,Up,2009,96,"Animation,Adventure,Comedy",8.2,"971,845",91050f20-1d70-445d-af55-9153f4477c66
+474,Up in the Air,2009,109,"Comedy,Drama,Romance",7.4,"325,743",079dec92-de45-4395-b058-de3943fb90ce
+475,The King's Speech,2010,118,"Biography,Drama,History",8.0,"655,187",ab6ff668-b31b-42b4-a406-468b3660562c
+476,127 Hours,2010,94,"Biography,Drama",7.5,"359,243",8aa6ad71-a915-44d3-ad61-a57c83baaee9
+477,Black Swan,2010,108,"Drama,Thriller",8.0,"721,688",d8594332-3a1c-41c4-a4bb-95744b7cc77b
+478,The Fighter,2010,116,"Biography,Drama,Sport",7.8,"350,469",6d10b167-cb37-4e7c-9636-6bdf993a3ed0
+479,Inception,2010,148,"Action,Adventure,Sci-Fi",8.8,"2,160,498",33289599-ab93-4631-922c-d0c5f1f652e7
+480,The Kids Are All Right,2010,106,"Comedy,Drama,Romance",7.0,"127,959",9772cfa2-5d7b-48eb-8f33-fd9d15087bc5
+481,The Social Network,2010,120,"Biography,Drama",7.7,"651,516",05fad488-166b-4fcd-9b23-b97ba7c51007
+482,Toy Story 3,2010,103,"Animation,Adventure,Comedy",8.2,"783,665",2c7866a2-f2a7-4409-b90d-022a083e8c04
+483,True Grit,2010,110,"Drama,Western",7.6,"322,030",86393a19-8f0b-4f28-b90f-9d953dfec999
+484,Winter's Bone,2010,100,"Drama,Mystery",7.2,"138,998",d013a485-c112-4f45-8139-4fca7bfe388f
+485,The Artist,2011,100,"Comedy,Drama,Romance",7.9,"235,457",d200f517-17a4-4d43-8be6-2cf5d36d6bfa
+486,The Descendants,2011,115,"Comedy,Drama",7.3,"236,381",3674e560-49ce-4097-8249-b3329d12e09c
+487,Extremely Loud & Incredibly Close,2011,129,"Adventure,Drama,Mystery",6.9,"99,514",a09a682d-a636-491f-a135-cef9b7628824
+488,The Help,2011,146,Drama,8.0,"438,666",d571a523-7282-4694-a8ce-5ca620f090ad
+489,Hugo,2011,126,"Drama,Family,Fantasy",7.5,"312,181",731143c6-6b60-4fb1-8564-6b86f5175893
+490,Midnight in Paris,2011,94,"Comedy,Fantasy,Romance",7.7,"401,524",343925fb-50f7-400d-ad63-70008718666e
+491,Moneyball,2011,133,"Biography,Drama,Sport",7.6,"389,329",7b46b3b9-1924-4db8-a286-956320d88dfa
+492,The Tree of Life,2011,139,"Drama,Fantasy",6.8,"171,734",cd62128e-0cf2-467d-a82a-4fb7c5d4d445
+493,War Horse,2011,146,"Action,Adventure,Drama",7.2,"151,533",8511a59e-ed87-4bfb-8c72-588e85a3b8c7
+494,Argo,2012,120,"Biography,Drama,Thriller",7.7,"588,984",df2afe2f-24a3-4bef-bbbc-716e24c5c723
+495,Amour,2012,127,Drama,7.9,"96,258",96b5b091-519c-4924-8bc0-76acde8979c5
+496,Beasts of the Southern Wild,2012,93,"Adventure,Drama,Fantasy",7.3,"82,051",7b0b3303-0178-4978-a5d5-818ab2209cc2
+497,Django Unchained,2012,165,"Drama,Western",8.4,"1,420,092",cca88b79-5fdc-40c6-845f-43c3421cbbee
+498,Life of Pi,2012,127,"Adventure,Drama,Fantasy",7.9,"598,436",e21da27c-6ce5-4de2-b31c-82bfafd8a585
+499,Lincoln,2011,118,"Crime,Drama,Mystery",7.3,"223,752",af47c834-a347-4036-991f-c192418f19dd
+500,Les Misérables,2012,158,"Drama,History,Musical",7.6,"317,030",d7ede1ef-73aa-4ffe-8d0e-254b90588f95
+501,Silver Linings Playbook,2012,122,"Comedy,Drama,Romance",7.7,"679,022",c3b2fd62-298b-4692-afb8-ab18bdc11e80
+502,Zero Dark Thirty,2012,157,"Drama,History,Thriller",7.4,"283,119",cc2c5a6a-c66c-4d94-9dcd-2c588ffdb607
+503,12 Years a Slave,2013,134,"Biography,Drama,History",8.1,"662,741",219ec9bd-2d5c-40c8-b914-bca2446ddcda
+504,American Hustle,2013,138,"Crime,Drama",7.2,"460,918",4ca961d2-bac4-43ee-be0c-325348503edd
+505,Captain Phillips,2013,134,"Adventure,Biography,Crime",7.8,"436,364",8e3f5cbe-ba2c-4f7a-a557-030aa0eb3f44
+506,Dallas Buyers Club,2013,117,"Biography,Drama",8.0,"459,404",15d6f774-4640-49dd-b1bf-f1e3454ee368
+507,Gravity,2013,91,"Drama,Sci-Fi,Thriller",7.7,"789,470",3b72ef21-a1a0-4bae-ac7d-62bbb2a8fb97
+508,Her,2013,126,"Drama,Romance,Sci-Fi",8.0,"565,149",49a7e2c9-87c7-496f-b097-f30d641f6bbe
+509,Nebraska,2013,115,"Adventure,Comedy,Drama",7.7,"115,031",fb0e0e48-dd1c-47a9-9c5a-e7617cd1f233
+510,Philomena,2013,98,"Biography,Comedy,Drama",7.6,"96,771",dd456cf6-adef-4ce6-98a9-5e59bbb27189
+511,The Wolf of Wall Street,2013,180,"Biography,Crime,Drama",8.2,"1,257,166",bdad64df-7778-4870-9d2f-f4aa2141388e
+512,Birdman or (The Unexpected Virtue of Ignorance),2014,119,"Comedy,Drama",7.7,"599,240",2a5cefcd-9f9e-481c-bcc3-721365d97672
+513,American Sniper,2014,133,"Action,Biography,Drama",7.3,"455,885",a1672fdb-9891-4606-9b46-4abc01e1790a
+514,Boyhood,2014,165,Drama,7.9,"343,822",d5061cf6-5575-416e-9b08-bed6c5a1e381
+515,The Grand Budapest Hotel,2014,99,"Adventure,Comedy,Crime",8.1,"741,950",24db8875-b61e-4643-bda9-de2455d0f5e7
+516,The Imitation Game,2014,114,"Biography,Drama,Thriller",8.0,"714,452",e0336cbf-d6e0-4e6f-990f-854660d715dc
+517,Selma,2014,128,"Biography,Drama,History",7.5,"89,059",89d620e7-a9dd-4247-96da-c019556a3cb0
+518,The Theory of Everything,2014,123,"Biography,Drama,Romance",7.7,"421,764",82023c5d-f065-4616-bbab-970e84a58d8a
+519,Whiplash,2014,106,"Drama,Music",8.5,"758,911",883da4a2-c3e4-487b-a08c-94f2dff27125
+520,Spotlight,2015,129,"Biography,Crime,Drama",8.1,"440,413",e8728900-9b21-4486-8a41-893439f118f3
+521,The Big Short,2015,130,"Biography,Comedy,Drama",7.8,"387,192",a0e57135-dbfa-44a9-9f12-e6d04c9cef45
+522,Bridge of Spies,2015,142,"Drama,History,Thriller",7.6,"298,091",01be4f89-7f33-44b5-84fb-74373c394649
+523,Brooklyn,2015,117,"Drama,Romance",7.5,"135,972",f95ccdec-05e4-4df6-896c-24ffd29e32cb
+524,Mad Max: Fury Road,2015,120,"Action,Adventure,Sci-Fi",8.1,"922,840",79fc5e5f-e53f-4bd2-8a92-154268114f49
+525,The Martian,2015,144,"Adventure,Drama,Sci-Fi",8.0,"791,919",72011778-43b2-4b5f-99e9-49226a306a20
+526,The Revenant,2015,156,"Action,Adventure,Drama",8.0,"738,208",afc8d345-abee-4a78-bbf1-1d2271319e41
+527,Room,2015,118,"Drama,Thriller",8.1,"391,182",711a0fe6-003c-4234-b1e1-c192f2d7ab44
+528,Moonlight,2016,111,Drama,7.4,"287,563",194103bc-9dbe-4396-ad61-8370f887ce45
+529,Arrival,2016,116,"Drama,Sci-Fi",7.9,"629,568",0e1f47b6-3fda-45b5-ae50-3b0077b16360
+530,Fences,2016,139,Drama,7.2,"102,639",27beb229-8515-4657-8a03-873b287d29f2
+531,Hacksaw Ridge,2016,139,"Biography,Drama,History",8.1,"464,504",47d27cf4-2241-42eb-8776-d45b8f1a19ce
+532,Hell or High Water,2016,102,"Action,Crime,Drama",7.6,"213,325",fba9e12d-e725-4711-a502-2e369e554591
+533,Hidden Figures,2016,127,"Biography,Drama,History",7.8,"211,233",3bfde6b3-4e9d-4411-a051-00eb89105a84
+534,La La Land,2016,128,"Comedy,Drama,Music",8.0,"534,405",dd2fa2f2-4cbe-4fbe-888c-5cea6773809b
+535,Lion,2016,118,"Biography,Drama",8.0,"223,804",6f62117a-ca4b-4f26-8b4d-bcff6d3ed0e8
+536,Manchester by the Sea,2016,137,Drama,7.8,"260,159",2d5bd667-6a86-4737-a069-3d875a29941b
+537,The Shape of Water,2017,123,"Adventure,Drama,Fantasy",7.3,"391,523",05e574cc-0583-419f-9300-257cf0c4d110
+538,Call Me by Your Name,2017,132,"Drama,Romance",7.9,"234,177",324af136-4644-43f4-9302-000013843ec9
+539,Darkest Hour,2017,125,"Biography,Drama,History",7.4,"184,502",097298e3-0a4c-42c9-b295-f7db341d29a0
+540,Dunkirk,2017,106,"Action,Drama,History",7.8,"591,901",d4bf0919-c2bd-4ab7-9b6f-ad4881444173
+541,Get Out,2017,104,"Horror,Mystery,Thriller",7.7,"526,587",bdea345b-3abf-4be0-927e-6dd11c3718bd
+542,Lady Bird,2017,94,"Comedy,Drama",7.4,"258,867",fcda8ae3-1d27-4d2d-83c2-e9804ad6bcd7
+543,Phantom Thread,2017,130,"Drama,Romance",7.5,"119,413",daf77b01-c9e3-4bfa-8a6d-57e07ba4c5ad
+544,The Post,2017,116,Drama,7.2,"142,630",b440a217-27a1-470b-b04e-c101d6cdf8be
+545,"Three Billboards Outside Ebbing, Missouri",2017,115,"Comedy,Crime,Drama",8.1,"463,268",60b0d783-fb20-4683-b1a0-269a7fe8020e
+546,Green Book,2018,130,"Biography,Comedy,Drama",8.2,"422,669",4dd226cc-dc68-40e7-a5b3-3b1bfff594f1
+547,Black Panther,2018,134,"Action,Adventure,Sci-Fi",7.3,"671,956",23eb3d70-301d-4e30-955f-57acf8f650dd
+548,BlacKkKlansman,2018,135,"Biography,Comedy,Crime",7.5,"240,028",9b92d8a7-dc53-4219-bb2d-3812ba4048a6
+549,Bohemian Rhapsody,2018,134,"Biography,Drama,Music",7.9,"482,597",fecdf7d4-1af9-41ab-883c-9616cea28519
+550,The Favourite,2018,119,"Biography,Comedy,Drama",7.5,"183,744",789c5253-e33e-4862-9cd6-6795271af717
+551,Roma,2018,135,Drama,7.7,"147,705",1dc73d5e-4ae5-428e-a4f3-d465ffc9262d
+552,A Star Is Born,2018,136,"Drama,Music,Romance",7.6,"354,157",a8a00610-8b95-4d5f-b95e-128b6a2853ea
+553,Vice,2018,132,"Biography,Comdey,Drama",7.2,"132,014",27048415-ff2e-427e-a4de-5d2898a0812d
+554,Parasite,2019,132,"Comedy,Drama,Thriller",8.6,"651,517",db1a7b9b-b141-4816-a78a-1ba660b98dba
+555,1917,2019,119,"Action,Drama,War",8.3,"485,648",e150fdb8-b54e-4411-9adf-ab4d2e3bcab0
+556,Ford v Ferrari,2019,152,"Action,Biography,Drama",8.1,"331,665",054dfed2-ce14-4c17-9bf2-fb228eaa78a3
+557,The Irishman,2019,209,"Biography,Crime,Drama",7.8,"349,303",cf8fb1fa-1a2b-48bd-a241-c7e9d487c09d
+558,Jojo Rabbit,2019,108,"Comedy,Drama,War",7.9,"335,856",111025ab-00c2-490a-8921-f298fe1a6006
+559,Joker,2019,122,"Crime,Drama,Thriller",8.4,"1,056,051",9988cdef-854b-4e3d-8dc4-19e8e8717b9b
+560,Little Women,2019,135,"Drama,Romance",7.8,"163,410",6207f4ff-c6a8-4922-b48d-71b03a01bc96
+561,Marriage Story,2019,137,"Comedy,Drama,Romance",7.9,"270,304",4dfbadb9-b7f9-4c24-bbd8-5d55dce2c7c6
+562,Once Upon a Time in Hollywood,2019,161,"Comedy,Drama",7.6,"628,233",80060b63-3c4c-42c3-ab4f-4efee21776bd
+563,Nomadland,2020,107,Drama,7.4,"123,041",f04508ab-e957-49aa-908e-c1286123a493
+564,The Father,2020,97,Drama,8.3,"89,693",73e858b2-7b6e-48b4-80d6-960a992961f5
+565,Judas and the Black Messiah,2021,126,"Biography,Drama,History",7.5,"58,996",cf55544c-fcaa-4b26-9773-52be27359d6f
+566,Mank,2020,131,"Biography,Comedy,Drama",6.9,"65,380",47d4ae4f-e782-4cd9-9508-4a07302b1c1a
+567,Minari,2020,115,Drama,7.5,"57,976",7262b3a8-214d-4205-985c-70e0860f3236
+568,Promising Young Woman,2020,113,"Crime,Drama,Thriller",7.5,"122,269",d64c669b-7a73-496a-bddb-19cb09264371
+569,Sound of Metal,2019,120,"Drama,Music",7.8,"102,807",647357e9-c067-46bd-aaeb-24d4344ec124
+570,The Trial of the Chicago 7,2020,129,"Drama,History,Thriller",7.8,"156,283",cecbca48-f19c-43f4-81d2-da130facda95
