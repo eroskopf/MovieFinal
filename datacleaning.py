@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 #need to import the files
 f = open("./data/the_oscar_award.csv",'r')
@@ -42,6 +43,7 @@ print(full.head())
 print(full.columns)
 
 full.to_csv(r"./data/fulldata.csv", index=False)
+
 #merge other way want more movies in the time frame
 
 
