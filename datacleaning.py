@@ -28,8 +28,19 @@ f4 = open("./data/movies.csv")
 mov_rev = pd.read_csv(f4)
 print(mov_rev.head())
 
-full = pd.merge(full, mov_rev, how= 'left', left_on= ["Film_x", "Year of Release"], right_on=["name", "year"])
+full = pd.merge(mov_rev, full, how= 'left', left_on= ["name", "year"], right_on=["Film_x", "Year of Release"])
+full = full.drop("Oscar Year", axis = 1)
+full = full.drop("name", axis = 1)
+full = full.drop("Movie Genre", axis = 1)
+full = full.drop("rating", axis = 1)
+full = full.drop("year", axis = 1)
+full = full.drop("country", axis = 1)
+full = full.drop("runtime", axis = 1)
 print(full.head())
-print(full.loc[:,"budget"].isna())
+full.loc[:,"Award"].fillna("None", inplace=True)
+print(full.head())
+
 full.to_csv(r"./data/fulldata.csv", index=False)
+#merge other way want more movies in the time frame
+
 
